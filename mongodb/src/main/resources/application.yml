@@ -1,0 +1,8 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://maxlopes365:8QVbVLbs7TZrPcPe@cluster0.eo7svte.mongodb.net/Cluster0?retryWrites=true&w=majority
+logging:
+  level:
+    _org.springframework.web.servlet.HandlerMapping.Mappings: debug
